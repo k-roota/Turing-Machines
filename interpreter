@@ -1,0 +1,1 @@
+java -cp target/scala-2.13/cc_assignment_1-assembly-1.0.jar one_tape_interpreter.Main "$@"
