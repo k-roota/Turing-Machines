@@ -4,7 +4,7 @@ The application allows you to run a one-tape Turing machine specified by transit
 
 ## Compilation
 
-In order to compile the project use `make` in the main directory. It runs Scala Build Tool which downloads necessary plugins and Scala version.
+In order to compile the project use `make` in the main directory. It runs sbt which downloads necessary plugins and Scala version.
 
 ## Usage
 
